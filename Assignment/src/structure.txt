@@ -1,0 +1,23 @@
+src/
+│── components/
+│   ├── Sidebar.jsx
+│   ├── Navbar.jsx
+│   ├── Pagination.jsx
+│   ├── BlogForm.jsx
+│   └── BlogTable.jsx
+│
+│── pages/
+│   ├── Dashboard.jsx
+│   ├── AddBlog.jsx
+│   └── EditBlog.jsx
+│
+│── hooks/
+│   └── useLocalStorage.js
+│
+│── utils/
+│   ├── imageValidation.js
+│   └── constants.js
+│
+│── App.jsx
+│── main.jsx
+│── index.css
